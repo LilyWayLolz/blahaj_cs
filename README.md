@@ -1,1 +1,3 @@
-This project was originally built off [AtulACleaver's Blahaj bot](https://github.com/AtulACleaver/Blahaj-Bot). I (Kaus) meant to use it for personal use, but I ended up building on it and turned it into a bit of my own project. Still, I think I should give credit to what helped me start this project.
+The [Blahaj](https://github.com/LilyWayLolz/blahaj), rewritten in C#
+
+HOW THE FUCK DO I PARSE A JSON FILE IN C#
