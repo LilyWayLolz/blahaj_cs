@@ -677,11 +677,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jane\\Documents\\blahaj_cs\\blahaj\\blahaj.csproj",
+      "projectUniqueName": "C:\\Users\\Jane\\Documents\\Coding Stuff\\blahaj_cs\\blahaj.csproj",
       "projectName": "blahaj",
-      "projectPath": "C:\\Users\\Jane\\Documents\\blahaj_cs\\blahaj\\blahaj.csproj",
+      "projectPath": "C:\\Users\\Jane\\Documents\\Coding Stuff\\blahaj_cs\\blahaj.csproj",
       "packagesPath": "C:\\Users\\Jane\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jane\\Documents\\blahaj_cs\\blahaj\\obj\\",
+      "outputPath": "C:\\Users\\Jane\\Documents\\Coding Stuff\\blahaj_cs\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Jane\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -739,7 +739,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.311/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

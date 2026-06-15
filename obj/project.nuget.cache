@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bhE26Fh99mM=",
+  "dgSpecHash": "K1FaoIEdPxs=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Jane\\Documents\\blahaj_cs\\blahaj\\blahaj.csproj",
+  "projectFilePath": "C:\\Users\\Jane\\Documents\\Coding Stuff\\blahaj_cs\\blahaj.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jane\\.nuget\\packages\\discord.net\\3.18.0\\discord.net.3.18.0.nupkg.sha512",
     "C:\\Users\\Jane\\.nuget\\packages\\discord.net.commands\\3.18.0\\discord.net.commands.3.18.0.nupkg.sha512",
