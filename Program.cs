@@ -11,6 +11,7 @@ public class Program
 {
     static void Main(string[] args)
     {
-        var Sharks = JsonSerializer.Deserialize<string>("blahaj.json");
+        // var Sharks = JsonSerializer.Deserialize<string>("blahaj.json");
+        Console.WriteLine("Sharks.");
     }
 }

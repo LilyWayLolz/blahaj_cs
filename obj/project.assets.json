@@ -677,11 +677,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jane\\Documents\\Coding Stuff\\blahaj_cs\\blahaj.csproj",
+      "projectUniqueName": "C:\\Users\\Jane\\Documents\\Coding\\blahaj_cs\\blahaj.csproj",
       "projectName": "blahaj",
-      "projectPath": "C:\\Users\\Jane\\Documents\\Coding Stuff\\blahaj_cs\\blahaj.csproj",
+      "projectPath": "C:\\Users\\Jane\\Documents\\Coding\\blahaj_cs\\blahaj.csproj",
       "packagesPath": "C:\\Users\\Jane\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jane\\Documents\\Coding Stuff\\blahaj_cs\\obj\\",
+      "outputPath": "C:\\Users\\Jane\\Documents\\Coding\\blahaj_cs\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Jane\\AppData\\Roaming\\NuGet\\NuGet.Config"
